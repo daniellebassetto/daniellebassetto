@@ -1,16 +1,13 @@
-### Hi there 👋
+## Oie! Eu sou a Danielle Bassetto
 
-<!--
-**danibassetto/danibassetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cursando Ciência da Computação (1/8) e estagiando
 
-Here are some ideas to get you started:
+🖥️ Estudando Python, C# e .NET no momento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 Ao me formar, pretendo me tornar fullstack
+<div align="center">
+  <a href="https://github.com/danibassetto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danibassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibassetto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
