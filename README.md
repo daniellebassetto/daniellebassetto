@@ -27,3 +27,4 @@
   <a href="https://www.linkedin.com/in/danielle-barros-bassetto-7a94421a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href= "https://www.facebook.com/danielle.barrosbassetto" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
+![Snake animation](https://github.com/danibassetto/danibassetto/blob/output/github-contribution-grid-snake.svg)
