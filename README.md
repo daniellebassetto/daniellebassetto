@@ -1,4 +1,6 @@
-## Oie! Eu sou a Danielle Bassetto
+## Oie! Seja bem-vindo(a) ao meu perfil
+
+Um pouco sobre mim: 
 
 💻 Cursando Ciência da Computação (1/8) e estagiando
 
