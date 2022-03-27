@@ -1,4 +1,4 @@
-## Oie! Seja bem-vindo(a) ao meu perfil/portifólio
+## Oie! Seja bem-vindo(a) ao meu perfil/portifólio!
 
 Um pouco sobre mim: 
 
