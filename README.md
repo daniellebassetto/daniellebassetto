@@ -1,4 +1,4 @@
-## <h1 align="left"> Oie! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem-vindo ao meu portifólio! </h1>
+## <h1 align="left"> Oie! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem-vindo(a) ao meu portifólio! </h1>
 
 Um pouco sobre mim: 
 
@@ -29,7 +29,7 @@ Um pouco sobre mim:
 ## Contate-me nas redes abaixo: 
 <div align="center"> 
   <a href="https://www.instagram.com/_danibassetto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:daniellebbassetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danibbassetto@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielle-barros-bassetto-7a94421a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href= "https://www.facebook.com/danielle.barrosbassetto" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
