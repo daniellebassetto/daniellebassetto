@@ -2,7 +2,7 @@
 
 Um pouco sobre mim: 
 
-💻 Cursando Ciência da Computação (1/8) e estagiando
+💻 Cursando Ciência da Computação (1/8) e estagiando como HelpDesk de sistema ERP na Systh Sistemas e Tecnologia
 
 🖥️ Estudando Python, C# e .NET no momento
 
