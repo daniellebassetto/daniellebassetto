@@ -2,9 +2,9 @@
 
 Um pouco sobre mim: 
 
-💻 Cursando Ciência da Computação (1/8) e estagiando como HelpDesk de sistema ERP na Systh Sistemas e Tecnologia
+💻 Cursando Ciência da Computação (1/8) e estagiando como Help Desk de sistema ERP na Systh Sistemas e Tecnologia
 
-🖥️ Estudando Python, C# e .NET no momento
+🖥️ Estudando Python, .NET C# e banco de dados no momento
 
 👩🏻‍💻 Ao me formar, pretendo me tornar fullstack
 
