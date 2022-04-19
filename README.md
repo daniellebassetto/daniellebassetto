@@ -1,4 +1,4 @@
-## <h1 align="left"> Oie! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem-vindo(a) ao meu perfil!! </h1>
+## <h1 align="left"> Oie! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem-vindo(a) ao meu perfil! </h1>
 
 Um pouco sobre mim: 
 
