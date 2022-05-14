@@ -23,7 +23,7 @@ Um pouco sobre mim:
 </div>
   
 ## Linguagens que tive/tenho contato:
-<div>
+<div align="center">
   <div style="display: inline_block"><br>
   <kbd align="center"> 
     <kbd>Back-end</kbd>
