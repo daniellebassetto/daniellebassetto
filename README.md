@@ -1,10 +1,12 @@
 ## <h1 align="left"> Oie! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem-vindo(a) ao meu perfil! </h1>
 
-<kbd align="center"> 
-  <kbd>Número de Visitas</kbd>
-  <br/><br/>
-  <img src="https://profile-counter.glitch.me/danibassetto/count.svg"></p>
-</kbd>
+<div align="center">
+  <kbd align="center"> 
+    <kbd>Número de Visitas</kbd>
+    <br/><br/>
+    <img src="https://profile-counter.glitch.me/danibassetto/count.svg"></p>
+  </kbd>
+</div>
 
 Um pouco sobre mim: 
 
