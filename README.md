@@ -10,9 +10,9 @@
 
 Um pouco sobre mim: 
 
-💻 Cursando Ciência da Computação (1/8) e estagiando como Help Desk de sistema ERP na Systh Sistemas e Tecnologia
+💻 Cursando Ciência da Computação (2/8) e estagiando como Help Desk de sistema ERP na Systh Sistemas e Tecnologia
 
-🖥️ Estudando Python, .NET C# e banco de dados no momento
+🖥️ Estudando Python, C, C# , SQL, HTML e CSS.
 
 👩🏻‍💻 Ao me formar, pretendo me tornar fullstack
 
@@ -42,7 +42,6 @@ Um pouco sobre mim:
     <kbd>Others</kbd>
     <br/><br/>
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-    <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   </kbd>
 </div>
 
