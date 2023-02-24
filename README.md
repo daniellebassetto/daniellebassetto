@@ -10,7 +10,7 @@
 
 Um pouco sobre mim: 
 
-💻 Cursando Ciência da Computação (3/8) e estagiando como Desenvolvedora de Software ERP na Systh Sistemas e Tecnologia
+💻 Cursando Ciência da Computação (3/8) e trabalhando como Desenvolvedora de Software ERP na Systh Sistemas e Tecnologia
 
 🖥️ Estudando  Python, C# .NET e SQL SERVER no momento
 
