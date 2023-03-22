@@ -8,6 +8,12 @@
   </kbd>
 </div>
 
+<div align="center">
+  <a href="https://github.com/danibassetto">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danibassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibassetto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 Um pouco sobre mim: 
 
 💻 Cursando Ciência da Computação (3/8) e trabalhando como Desenvolvedora de Software ERP na Systh Sistemas e Tecnologia
