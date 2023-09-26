@@ -21,8 +21,6 @@ Um pouco sobre mim:
 💻 Cursando Ciência da Computação (4/8) e trabalhando como Desenvolvedora de Software ERP na Systh Sistemas e Tecnologia
 
 🖥️ Estudando C#, ASP.NET e SQL SERVER no momento
-
-👩🏻‍💻 Ao me formar, pretendo me tornar fullstack
   
 ## Linguagens que tive/tenho contato:
 <div align="center">
