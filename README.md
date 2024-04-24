@@ -18,26 +18,25 @@
 
 Um pouco sobre mim: 
 
-💻 Cursando Ciência da Computação (4/8) e trabalhando como Desenvolvedora de Software ERP na Systh Sistemas e Tecnologia
-
-🖥️ Estudando C#, ASP.NET e SQL SERVER no momento
+💻 Cursando Ciência da Computação (4/8)
+🖥️ Me identifico mais com programação back-end
+👩🏻‍💻 TechLead de Microsserviços na Harmonit
   
-## Linguagens que tive/tenho contato:
+## Linguagens e tecnologias mais utilizadas:
 <div align="center">
   <div style="display: inline_block"><br>
   <kbd align="center"> 
     <kbd>Back-end</kbd>
     <br/><br/>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt=".NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
   </kbd>
     <kbd align="center"> 
     <kbd>SQL</kbd>
     <br/><br/>
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+    <img align="center" alt="SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   </kbd>
   <kbd align="center">
     <kbd>Front-end</kbd>
@@ -55,7 +54,6 @@ Um pouco sobre mim:
     <kbd align="center"> 
   <kbd>Ambientes</kbd>
     <br/><br/>    
-    <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" alt="VisualStudio" height="30" width="40"<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
   </kbd>
