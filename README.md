@@ -1,4 +1,4 @@
-## <h1 align="left"> Oie! Seja bem-vindo(a) ao meu perfil! </h1>
+<h1 align="left"> Oie! Seja bem-vindo(a) ao meu perfil! </h1>
 
 <div align="center">
   <kbd align="center"> 
@@ -16,13 +16,13 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibassetto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-Um pouco sobre mim: 
+<h2 align="left"> Um pouco sobre mim: </h2>
 
 💻 Cursando Ciência da Computação (4/8)
 🖥️ Me identifico mais com programação back-end
 👩🏻‍💻 TechLead de Microsserviços na Harmonit
-  
-## Linguagens e tecnologias mais utilizadas:
+
+<h2 align="left"> Linguagens e tecnologias mais utilizadas:</h2>
 <div align="center">
   <div style="display: inline_block"><br>
   <kbd align="center"> 
@@ -59,7 +59,7 @@ Um pouco sobre mim:
   </kbd>
 </div>
 
-## Contate-me nas redes abaixo: 
+<h2 align="left"> Contate-me nas redes abaixo: </h2>
 <div align="center"> 
   <a href="https://www.instagram.com/_danibassetto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danibbassetto@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
