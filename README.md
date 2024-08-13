@@ -18,7 +18,7 @@
 
 <h2 align="left"> Um pouco sobre mim: </h2>
 
-💻 Cursando Ciência da Computação (5/8)
+💻 Cursando Ciência da Computação (6/8)
 🖥️ Me identifico mais com programação back-end
 👩🏻‍💻 TechLead de Microsserviços na Harmonit
 
