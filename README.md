@@ -4,16 +4,16 @@
   <kbd align="center"> 
     <kbd>Número de Visitas</kbd>
     <br/><br/>
-    <img src="https://profile-counter.glitch.me/danibassetto/count.svg"></p>
+    <img src="https://profile-counter.glitch.me/daniellebassetto/count.svg"></p>
   </kbd>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/danibassetto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danibassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibassetto&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/daniellebassetto">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h2 align="left"> Um pouco sobre mim: </h2>
@@ -21,6 +21,8 @@
 👩🏻‍💻 20 anos
 💼 Desenvolvedora Full Stack Pleno
 💻 Cursando Bacharelado em Ciência da Computação (6/8)
+🎮 Gamer
+🎥 Viciada em assistir série
 
 <h2 align="left"> Linguagens e tecnologias mais utilizadas:</h2>
 <div align="center">
