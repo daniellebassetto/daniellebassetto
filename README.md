@@ -1,13 +1,4 @@
 <h1 align="left"> Oie! Seja bem-vindo(a) ao meu perfil! </h1>
-
-<div align="center">
-  <kbd align="center"> 
-    <kbd>Número de Visitas</kbd>
-    <br/><br/>
-    <img src="https://profile-counter.glitch.me/daniellebassetto/count.svg"></p>
-  </kbd>
-</div>
-
 <br>
 
 <div align="center">
