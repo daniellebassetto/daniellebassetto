@@ -1,10 +1,8 @@
-<h1 align="left"> Oie! Seja bem-vindo(a) ao meu perfil! </h1>
-<br>
-
 <div align="center">
-  <a href="https://github.com/daniellebassetto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=7&theme=dracula"/>
+    <h1>Olá! Eu sou a Danielle</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+bem-vindo(a)!+%E2%8A%B9" alt="Typing SVG">
+  </a>
 </div>
 
 <h2 align="left"> Um pouco sobre mim: </h2>
@@ -14,6 +12,14 @@
 - 💻 Cursando Bacharelado em Ciência da Computação (6/8)
 - 🎮 Gamer
 - 🎥 Viciada em assistir série
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/daniellebassetto">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <h2 align="left"> Linguagens e tecnologias mais utilizadas:</h2>
 <div align="center">
