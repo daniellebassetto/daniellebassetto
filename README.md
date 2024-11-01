@@ -9,11 +9,11 @@
 
 <h2 align="left"> Um pouco sobre mim: </h2>
 
-👩🏻‍💻 20 anos
-💼 Desenvolvedora Full Stack Pleno na Trinks
-💻 Cursando Bacharelado em Ciência da Computação (6/8)
-🎮 Gamer
-🎥 Viciada em assistir série
+- 👩🏻‍💻 20 anos
+- 💼 Desenvolvedora Full Stack Pleno na Trinks
+- 💻 Cursando Bacharelado em Ciência da Computação (6/8)
+- 🎮 Gamer
+- 🎥 Viciada em assistir série
 
 <h2 align="left"> Linguagens e tecnologias mais utilizadas:</h2>
 <div align="center">
@@ -60,3 +60,9 @@
   <a href = "mailto:danibbassetto@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielle-barros-bassetto-7a94421a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake.svg">
+</picture>
