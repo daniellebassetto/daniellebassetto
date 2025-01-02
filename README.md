@@ -67,6 +67,8 @@
   <a href="https://www.linkedin.com/in/danielle-barros-bassetto-7a94421a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![17358594345756209985952765489384](https://github.com/user-attachments/assets/255ddb5d-8186-4591-a9a0-a81904385e5b)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
