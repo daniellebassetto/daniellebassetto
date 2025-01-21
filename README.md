@@ -11,7 +11,7 @@
 - 💼 Desenvolvedora FullStack Pleno na Trinks
 - 💻 Cursando Bacharelado em Ciência da Computação (7/8)
 - 🎮 Gamer
-- 🎥 Viciada em assistir série
+- 🎥 Viciada em séries
 
 <br>
 
