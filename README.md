@@ -7,7 +7,7 @@
 
 <h2 align="left"> Um pouco sobre mim: </h2>
 
-- 👩🏻‍💻 20 anos
+- 👩🏻‍💻 21 anos
 - 💼 Desenvolvedora FullStack Pleno na Trinks
 - 💻 Cursando Bacharelado em Ciência da Computação (7/8)
 - 🎮 Gamer
