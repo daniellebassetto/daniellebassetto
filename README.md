@@ -13,14 +13,6 @@
 - 🎮 Gamer
 - 🎥 Viciada em séries
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/daniellebassetto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
 <h2 align="left"> Linguagens e tecnologias mais utilizadas:</h2>
 <div align="center">
   <div style="display: inline_block"><br>
@@ -69,8 +61,16 @@
   <a href="https://www.linkedin.com/in/danielle-barros-bassetto-7a94421a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![17358594345756209985952765489384](https://github.com/user-attachments/assets/255ddb5d-8186-4591-a9a0-a81904385e5b)
-
+<h2 align="left"> Algumas métricas: </h2>
+<div align="center">
+  
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniellebassetto&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniellebassetto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=6&theme=dracula"/><br>
+</div>
+      
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
