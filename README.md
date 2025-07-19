@@ -3,7 +3,7 @@
     <h3 align="center">
       👩🏻‍💻 21 anos | 💻 Desenvolvedora Full Stack Pleno na Trinks | 🎓 Graduanda em Ciência da Computação (7/8) | 🎮 Apaixonada por games, filmes e séries
     </h3>
-    <img align="center" width="1584" height="396" alt="DANIELLE BASSETTO" src="https://github.com/user-attachments/assets/2227e891-beba-4f54-b29d-a6a9257d9f6f" />
+    <img width="1584" height="396" alt="DANIELLE BASSETTO (1)" src="https://github.com/user-attachments/assets/75dda448-c196-4cb0-84bd-b523acde77f0" />
     <p>Sou uma entusiasta da tecnologia, apaixonada por resolver problemas através da programação e em constante busca por evolução. Tenho um perfil curioso e criativo, e gosto de mergulhar em novos desafios, explorar ferramentas, aprender linguagens e entender como as coisas funcionam nos bastidores. Acredito no poder do código para transformar ideias em soluções reais — é isso que torna meu trabalho tão significativo e desafiador.</p>
 </div>
 
