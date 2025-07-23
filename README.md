@@ -30,8 +30,8 @@
 
 ## ⭐️ &nbsp;GitHub Stats
 <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=6&theme=dracula"/><br>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniellebassetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=6&theme=dracula"/><br>
 </div>
 
 <picture align="center">
