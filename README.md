@@ -34,14 +34,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellebassetto&layout=compact&langs_count=6&theme=dracula"/><br>
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![Danielle github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellebassetto&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=ff00ed&hide_border=true)](https://github.com/daniellebassetto/)
-
 <br/>
 
 <div align="center">
