@@ -28,8 +28,6 @@
 
 ---
 
-## ⭐️ &nbsp;GitHub Stats
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=daniellebassetto&color=ff00ed" alt="Profile views" />
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff00ed&reversal=false&section=footer"/>
